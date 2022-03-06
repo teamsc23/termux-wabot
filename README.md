@@ -47,7 +47,7 @@ you've just cloned!!
 
 ## Features
 
-| Sticker Creator |                Feature           |
+| Sticker ❤ Creator |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Send Photo with Caption          |
 |       ✅       | Reply A Photo                    |
